@@ -1,0 +1,33 @@
+aid: quirrel
+name: Quirrel
+description: >-
+  Quirrel is an open source job queueing and workflow scheduling service for serverless and containerized applications.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Workflow Automation
+  - Developer-First
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/quirrel/refs/heads/main/apis.yml
+created: 2026-03-27
+modified: 2026-03-27
+specificationVersion: 0.19
+apis:
+  - aid: quirrel:quirrel
+    name: Quirrel
+    description: >-
+      Quirrel is an open source job queueing and workflow scheduling service for serverless and containerized applications.
+    humanURL: https://quirrel.dev
+    tags:
+      - Workflow Automation
+    properties:
+      - type: Documentation
+        url: https://docs.quirrel.dev
+common:
+  - type: Website
+    url: https://quirrel.dev
+  - type: Documentation
+    url: https://docs.quirrel.dev
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
