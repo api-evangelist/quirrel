@@ -48,6 +48,8 @@ apis:
       - type: SDKs
         url: https://www.npmjs.com/package/quirrel
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/quirrel
   - type: Website
     url: https://quirrel.dev
   - type: Documentation
