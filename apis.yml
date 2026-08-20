@@ -24,6 +24,13 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/quirrel.pn
 tags:
   - Developer Tools
   - Job Queues
+  - Workflow-Automation
+  - Background Jobs
+  - Serverless
+  - Scheduling
+tags_raw:
+  - Developer Tools
+  - Job Queues
   - Workflow Automation
   - Background Jobs
   - Serverless
@@ -46,6 +53,11 @@ apis:
       Blitz.js, Vercel, Netlify, and Express.
     humanURL: https://quirrel.dev
     tags:
+      - Job Queues
+      - Workflow-Automation
+      - Background Jobs
+      - Serverless
+    tags_raw:
       - Job Queues
       - Workflow Automation
       - Background Jobs
