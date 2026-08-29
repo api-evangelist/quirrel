@@ -8,6 +8,18 @@ description: >-
   and Netlify Functions. Quirrel was acquired by Netlify in 2022 and remains available
   as an open source project.
 type: Index
+deliveryModel:
+  model: self-hosted
+  license: MIT
+  open_source: true
+  commercial: false
+  callable_host: false
+  label: Self-hosted open source · you run it yourself
+  confidence: high
+  source:
+  - license
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
@@ -72,6 +84,16 @@ apis:
       - type: SDKs
         url: https://www.npmjs.com/package/quirrel
 common:
+  - type: IssueTracker
+    url: https://github.com/quirrel-dev/quirrel/issues
+  - type: Releases
+    url: https://github.com/quirrel-dev/quirrel/releases
+  - type: SecurityPolicy
+    url: https://github.com/quirrel-dev/quirrel/blob/main/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/quirrel-dev/quirrel/blob/main/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/quirrel-dev/quirrel/blob/main/CONTRIBUTING.md
   - type: License
     name: MIT
     url: https://github.com/quirrel-dev/quirrel/blob/main/LICENSE
