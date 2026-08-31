@@ -84,6 +84,11 @@ apis:
       - type: SDKs
         url: https://www.npmjs.com/package/quirrel
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/netlify/
+    name: Netlify
+    x-relationship: acquired
+    x-evidence: "Quirrel was acquired by Netlify in 2022 and remains available as an open source project."
   - type: IssueTracker
     url: https://github.com/quirrel-dev/quirrel/issues
   - type: Releases
