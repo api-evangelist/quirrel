@@ -86,6 +86,12 @@ apis:
       - type: SDKs
         url: https://www.npmjs.com/package/quirrel
 common:
+  - type: Plans
+    url: plans/quirrel-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/quirrel-rate-limits.yml
+  - type: FinOps
+    url: finops/quirrel-finops.yml
   - type: ParentCompany
     url: https://apis.io/providers/netlify/
     name: Netlify
